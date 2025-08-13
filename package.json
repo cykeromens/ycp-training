@@ -1,13 +1,13 @@
 {
-  "name": "nodejs",
+  "name": "YCP training",
   "version": "1.0.0",
-  "description": "",
+  "description": "Training class modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "YCP",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^22.13.11"

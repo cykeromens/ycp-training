@@ -5,7 +5,6 @@
 // if (condition_is_true){
 //     // code to be executed
 // }
-
 // Example of an if statement
 
 // if(20 > 10){

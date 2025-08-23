@@ -25,3 +25,4 @@
 // 8. git pull origin master: pull the changes in the remote repository to the local repository
 // 9. git clone <url>: clone a remote repository to the local repository and is the first command to run when you want to clone a repository
 // 10. git branch: check the branches in the repository and see which branch is currently active
+// 11. git checkout -b <new_branch_name> this us used for creating a branch from an existing current branch

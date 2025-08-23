@@ -10,6 +10,7 @@
 // The body contains the content of the webpage
 // The footer contains the footer of the webpage
 
+// Def: Tags
 // Htmls are written in the form of tags which are enclosed in angle brackets < >
 // Tags are case insensitive
 // Tags are divided into two types: paired tags and self closing tags
@@ -21,6 +22,35 @@
 // 1. Create a file with the extension .html
 // 2. Write the basic structure of an html file
 // 3. Save the file and open it in the browser
+
+The basic structure of the HTML file include the following
+
+1. Document Tags
+    i. <html></html> : all tags must be inclosed into this tag this the root of the html tags
+    ii. <head></head>: is used to hold the <title>, <style>, <meta>, <scripts> tags 
+    iii . <body></body>: this contains the content that will be displayed on the browser
+
+2. Heading and Text tags
+    i. (<h1>,<h2>,<h3>,<h4>, <h5>, <h6>) heading tags: are used for heading tags for smaller or larger fonts 
+    ii. <p> paragraph tag: is used to determine a paragraph in html
+    iii <br> → Line break (self closing tag).
+    iv. <hr> → Horizontal line (divider).
+    v. <b> / <strong> → Bold text (strong has semantic importance).
+    vi. <i> / <em> → Italic text (emphasis has semantic meaning).
+    vii. <u> → Underlined text.
+    viii. <span> → Inline container for styling or grouping.
+3. Links & Navigation
+    i. <a href="url"> anchor: → Creates a hyperlink.
+        This used the attribute href for resource location
+    ii. <nav> → Defines navigation links section.
+4. Lists
+    i. <ul> → Unordered list (bullets).
+    ii. <ol> → Ordered list (numbers).
+    iii. <li> → List item.
+
+Attributes: tags can contain attributes which can either be used or not.
+Example of an attribute is the href from the anchor tag.
+
 
 
 

@@ -22,7 +22,7 @@
 // Non-primitive data structures (Physical data structures)
 // Object, Array, Function, Date, Classes
 
-// Abstract data structures (Complex data structures))
+// Abstract data structures (Complex data structures, Logical Structures)))
 // Stack, Queue, Linked List, Tree, Graph, Hash Table, Heap, Trie, Set, Map
 
 

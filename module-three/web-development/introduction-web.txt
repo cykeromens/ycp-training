@@ -43,10 +43,31 @@ The basic structure of the HTML file include the following
     i. <a href="url"> anchor: → Creates a hyperlink.
         This used the attribute href for resource location
     ii. <nav> → Defines navigation links section.
-4. Lists
+4. Lists:
+    To display on the browser we can use the ordered or unordered list display
     i. <ul> → Unordered list (bullets).
     ii. <ol> → Ordered list (numbers).
     iii. <li> → List item.
+5. Images & Media
+   i. <img src="file.jpg" alt="description"> → Displays an image.
+   ii. <audio controls> → Embed audio.
+   iii. <video controls> → Embed video.
+
+6. Tables
+    i. <table> → Defines a table.
+    ii. <tr> → Table row.
+    iii. <td> → Table data (cell).
+    iv. <th> → Table header cell.
+    v. <thead>, <tbody>, <tfoot> → Grouping table sections.
+
+7. Forms & Input
+    i. <form> → Form container.
+    ii. <input type="text"> → Single-line input field.
+    iii. <textarea> → Multi-line input.
+    iv. <select> → Drop-down list.
+    v. <option> → Item in a <select>.
+    vi. <button> → Clickable button.
+    vii. <label> → Label for input fields.
 
 Attributes: tags can contain attributes which can either be used or not.
 Example of an attribute is the href from the anchor tag.

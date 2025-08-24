@@ -1,0 +1,5 @@
+1. Complete the course registration form
+2. Create a form to submit a file upload 
+3. Create another form to select age brackets within 10 years starting from 1970 to 2020, 
+assign a name each group and add submit button
+4. Create a form that will accept a range slider from 0 - 20.

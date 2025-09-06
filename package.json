@@ -10,6 +10,7 @@
   "author": "YCP",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11"
+    "@types/node": "^22.13.11",
+    "bootstrap": "^5.3.8"
   }
 }

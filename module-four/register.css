@@ -1,0 +1,48 @@
+body {
+    background-color: #0d8fd045;
+    font-size: medium;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    /* padding-top: 100px; */
+    /* padding-bottom: 100px; */
+    margin-top: 5px;
+    margin-left: 5px;
+    size: 50;
+    font-size: large;
+
+
+}
+
+label {
+    margin-left: 5px;
+}
+
+form{
+    width: 50%;
+    margin: 0 auto;
+    font-size: small;
+}
+
+.submit {
+    align-content: flex-end;
+}
+
+.container{
+    align-content: center;
+}
+
+
+/* 
+ You can use tags, ids and classes for your styling
+ ids are represented with the # code
+ classes are respresented with the . code.
+
+
+ the definition must preceed with the codes.
+ only tags html tags or defined are not preceeded with any codes.
+*/
